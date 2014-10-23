@@ -5,7 +5,7 @@
                 "latitude": 44.272554, 
                 "city": "Sestri Levante - Lavagna", 
                 "name": "Tigullionbike", 
-                "longitude": 9.395714, 
+                "longitude": 9.395714, G
                 "country": "IT"
             }, 
             "tag": "tigullionbike", 
@@ -393,7 +393,7 @@
                 }, 
                 {
                     "id": 61, 
-                    "name": "Grugilasco"
+                    "name": "Grugliasco"
                 }, 
                 {
                     "id": 62, 
